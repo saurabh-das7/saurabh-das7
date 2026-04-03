@@ -1,20 +1,23 @@
 # Saurabh Das
 
-Sr. Technical Program Manager at Microsoft AI (Ads Marketplace) 
-with experience in Ad Tech, Analytics, Measurement & AI/ML.
+Sr. Technical Program Manager at Microsoft AI (Ads Marketplace).
+Building at the intersection of Ad Tech, Analytics, Measurement, and AI/ML products.
 
 ## What I work on
-- **AI/LLM Products** — Building an LLM-powered 
-  diagnostic tool for Microsoft Ads Marketplace
-- **Privacy-Aware Measurement** — Frameworks to recover demand signals 
-  lost to consent policy changes and third-party signal deprecation
-- **Ad Tech & Marketplace** — Optimisation, anomaly detection, 
-  advertiser analytics at scale
+- **LLM Products** — LLM-powered diagnostic tool for 
+  Microsoft Ads Marketplace; roadmap, evals, model-human parity
+- **Measurement & Signal Recovery** — Privacy-aware frameworks 
+  for demand signals lost to consent policy changes
+- **Marketplace Health** — Anomaly detection, RCA programs, 
+  KPI monitoring across Ads platforms at scale
+- **Ad Format Launches** — End-to-end product launches across 
+  EMEA with cross-functional engineering, sales & policy teams
 
 ## This space
-I'm building domain-specific tools and frameworks at the intersection of 
-Ad Tech, measurement, and AI — publicly documenting the thinking behind them.
-Projects are PM-led: problem-first, metric-driven, built with AI assistance.
+Documenting my AI learning journey — frameworks, tools, and 
+projects built at the intersection of product thinking and 
+AI engineering. Everything here is built in public: 
+problem-first, metric-driven, and PM-led.
 
 ## Background
 - 📍 Bengaluru, India
@@ -23,5 +26,6 @@ Projects are PM-led: problem-first, metric-driven, built with AI assistance.
 - 🔗 [LinkedIn](https://linkedin.com/in/saurabhdas7)
 
 ## Domain expertise
-`Ad Tech` `Measurement` `LLM Products` `Privacy-Aware Signals` 
-`Signal Loss Mitigation` `A/B Experimentation` `Marketplace Optimisation`
+`Ad Tech` `Measurement` `LLM Products` `Privacy-Aware Signals`
+`Signal Loss Mitigation` `A/B Experimentation` `Marketplace 
+Optimisation` `Program Management` `0→1 Product Launches`
