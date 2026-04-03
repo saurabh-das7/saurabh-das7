@@ -17,7 +17,8 @@ Building at the intersection of Ad Tech, Analytics, Measurement, and AI/ML produ
 Documenting my AI learning journey — frameworks, tools, and 
 projects built at the intersection of product thinking and 
 AI engineering. Everything here is built in public: 
-problem-first, metric-driven, and PM-led.
+problem-first, metric-driven, and PM-led. I have been on this 
+journey for a few years now but thought of capturing it here recently.
 
 ## Background
 - 📍 Bengaluru, India
