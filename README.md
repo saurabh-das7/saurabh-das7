@@ -24,8 +24,8 @@ journey for a few years now but thought of capturing it here recently.
 - 📍 Bengaluru, India
 - 🏢 Microsoft AI · Ads Marketplace (Sep 2021 - Present)
 - 🏢 Marico · Digital Transformation & Analytics | CEO Office (Jun 2017 - Aug 2021)
-- 🎓 MBA - IIM Bangalore
-- 🎓 B.Tech. CSE - USICT Delhi
+- 🎓 MBA - IIM Bangalore (May 2015 - Apr 2017)
+- 🎓 B.Tech. CSE - USICT Delhi (Jun 2011 - Apr 2015)
 - 🔗 [LinkedIn](https://linkedin.com/in/saurabhdas7)
 
 ## Domain expertise
