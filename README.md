@@ -25,8 +25,9 @@ journey for a few years now but thought of capturing it here recently.
 | Project | What it is | Status |
 |---------|-----------|--------|
 | [llm-eval-toolkit](https://github.com/saurabh-das7/llm-eval-toolkit) | Streamlit app to evaluate LLM output quality using a structured rubric | 🔨 Building |
-| [issue-categorisation-tool](https://github.com/saurabh-das7/issue-categorisation-tool) | LLM-powered tool to re-categorise vendor tickets and surface product patterns | 📋 Documenting |
+| [llm-issue-categorizer](https://github.com/saurabh-das7/llm-issue-categorizer) | LLM-powered tool to re-categorise vendor tickets and surface product patterns | 📋 Documenting |
 | [pm-tpm-playbooks](https://github.com/saurabh-das7/pm-tpm-playbooks) | Frameworks and mental models for PMs and TPMs in AI/ML and Ad Tech | 🌱 Growing |
+| [agent-skills](https://github.com/saurabh-das7/agent-skills) | Reusable AI skills for Claude and other agents - packaged as installable SKILL.md files | 🌱 Growing |
 
 ## Currently Learning
  
