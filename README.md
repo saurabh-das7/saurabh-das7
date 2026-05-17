@@ -30,16 +30,16 @@ journey for a few years now but thought of capturing it here recently.
 | [agent-skills](https://github.com/saurabh-das7/agent-skills) | Reusable AI skills for Claude and other agents - packaged as installable SKILL.md files | 🌱 Growing |
 
 ## Currently Learning
- 
-| Course | Provider | Status |
-|--------|----------|--------|
-| [Google AI Essentials Specialisation](https://www.coursera.org/specializations/ai-essentials-google) | Google · Coursera | 🔄 In Progress |
-| [Google GenAI Leader](https://www.coursera.org/professional-certificates/generative-ai-for-leaders) | Google · Coursera | 🔄 In Progress |
-| [Exploring AI with Google AI Studio](https://www.coursera.org/learn/exploring-ai-with-google-ai-studio) | Google DeepMind · Coursera | 🔄 In Progress |
-| [Get Started with Generative AI Studio](https://www.coursera.org/projects/googlecloud-get-started-with-generative-ai-studio-2hgqt) | Google Cloud · Coursera | 🔄 In Progress |
-| [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | 🔄 In Progress |
- 
-*Learning by doing - everything above is built from what's being learned here.*
+
+| Course | Provider | Format | Status |
+|--------|----------|--------|--------|
+| [Google AI Essentials](https://www.coursera.org/specializations/ai-essentials-google) | Google · Coursera | Specialisation · 5 courses | 🔄 In Progress |
+| [Google GenAI Leader](https://www.coursera.org/professional-certificates/generative-ai-for-leaders) | Google · Coursera | Professional Certificate | 🔄 In Progress |
+| [Exploring AI with Google AI Studio](https://www.coursera.org/learn/exploring-ai-with-google-ai-studio) | Google DeepMind · Coursera | Course · part of Gemini for Developers | 🔄 In Progress |
+| [Get Started with Generative AI Studio](https://www.coursera.org/projects/googlecloud-get-started-with-generative-ai-studio-2hgqt) | Google Cloud · Coursera | Guided Project | 🔄 In Progress |
+| [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | Course · Tool deep-dive | 🔄 In Progress |
+
+*Learning by doing - everything above feeds directly into projects in this space.*
 
 ## Background
 - 📍 Bengaluru, India
