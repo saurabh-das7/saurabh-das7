@@ -33,10 +33,10 @@ journey for a few years now but thought of capturing it here recently.
  
 | Course | Provider | Status |
 |--------|----------|--------|
-| [Google AI Essentials](https://www.coursera.org/professional-certificates/google-ai-essentials) | Google · Coursera | 🔄 In Progress |
-| [Google GenAI Leader](https://www.coursera.org/professional-certificates/google-genai-leader) | Google · Coursera | 🔄 In Progress |
+| [Google AI Essentials Specialisation](https://www.coursera.org/specializations/ai-essentials-google) | Google · Coursera | 🔄 In Progress |
+| [Google GenAI Leader](https://www.coursera.org/professional-certificates/generative-ai-for-leaders) | Google · Coursera | 🔄 In Progress |
 | [Exploring AI with Google AI Studio](https://www.coursera.org/learn/exploring-ai-with-google-ai-studio) | Google DeepMind · Coursera | 🔄 In Progress |
-| [Get Started with Generative AI Studio](https://www.coursera.org/learn/get-started-with-generative-ai-studio) | Google Cloud · Coursera | 🔄 In Progress |
+| [Get Started with Generative AI Studio](https://www.coursera.org/projects/googlecloud-get-started-with-generative-ai-studio-2hgqt) | Google Cloud · Coursera | 🔄 In Progress |
 | [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | 🔄 In Progress |
  
 *Learning by doing - everything above is built from what's being learned here.*
