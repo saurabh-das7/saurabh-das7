@@ -37,7 +37,7 @@ journey for a few years now but thought of capturing it here recently.
 | [Google GenAI Leader](https://www.coursera.org/professional-certificates/generative-ai-for-leaders) | Google · Coursera | Professional Certificate | 🔄 In Progress |
 | [Exploring AI with Google AI Studio](https://www.coursera.org/learn/exploring-ai-with-google-ai-studio) | Google DeepMind · Coursera | Course · part of Gemini for Developers | 🔄 In Progress |
 | [Get Started with Generative AI Studio](https://www.coursera.org/projects/googlecloud-get-started-with-generative-ai-studio-2hgqt) | Google Cloud · Coursera | Guided Project | 🔄 In Progress |
-| [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | Course · Tool deep-dive | 🔄 In Progress |
+| [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | Course · Tool deep-dive | ✅ Done |
 
 *Learning by doing - everything above feeds directly into projects in this space.*
 
