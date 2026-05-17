@@ -20,6 +20,23 @@ AI engineering. Everything here is built in public:
 problem-first, metric-driven, and PM-led. I have been on this 
 journey for a few years now but thought of capturing it here recently.
 
+## Building in Public
+
+| Project | What it is | Status |
+|---------|-----------|--------|
+| [llm-eval-toolkit](https://github.com/saurabh-das7/llm-eval-toolkit) | Streamlit app to evaluate LLM output quality using a structured rubric | 🔨 Building |
+| [issue-categorisation-tool](https://github.com/saurabh-das7/issue-categorisation-tool) | LLM-powered tool to re-categorise vendor tickets and surface product patterns | 📋 Documenting |
+| [pm-tpm-playbooks](https://github.com/saurabh-das7/pm-tpm-playbooks) | Frameworks and mental models for PMs and TPMs in AI/ML and Ad Tech | 🌱 Growing |
+
+## Currently Learning
+
+| Course | Provider | Status |
+|--------|----------|--------|
+| [Google AI Essentials](https://www.coursera.org/professional-certificates/google-ai-essentials) | Google · Coursera | 🔄 In Progress |
+| [Google GenAI Leader](https://www.coursera.org/professional-certificates/google-genai-leader) | Google · Coursera | 🔄 In Progress |
+
+*Learning by doing - everything above is built from what's being learned here.*
+
 ## Background
 - 📍 Bengaluru, India
 - 🏢 Microsoft AI · Ads Marketplace (Sep 2021 - Present)
