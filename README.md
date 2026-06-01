@@ -19,7 +19,7 @@ Documenting my AI learning journey — frameworks, tools, and projects built at 
 | Project | What it is | Status |
 |---------|-----------|--------|
 | [llm-eval-toolkit](https://github.com/saurabh-das7/llm-eval-toolkit) | Streamlit app to evaluate LLM-generated search ad copy using a structured, intent-aware rubric | ✅ Live ·   [Try it](https://llm-eval-toolkit-uwvrvxbgvcgwmk9rpbpjun.streamlit.app/) |
-| [llm-issue-categorizer](https://github.com/saurabh-das7/llm-issue-categorizer) | LLM-powered tool to re-categorise vendor tickets and surface product improvement patterns | 🔨 Building |
+| [llm-issue-categorizer](https://github.com/saurabh-das7/llm-issue-categorizer) | LLM-powered tool to re-categorise vendor tickets and surface product improvement patterns | ✅ Live · [Try it](https://llm-issue-categorizer.streamlit.app) |
 | [pm-tpm-playbooks](https://github.com/saurabh-das7/pm-tpm-playbooks) | Frameworks and mental models for PMs and TPMs in AI/ML and Ad Tech | 🌱 Growing |
 | [agent-skills](https://github.com/saurabh-das7/agent-skills) | Reusable AI skills for Claude and other agents — packaged as installable SKILL.md files | 🌱 Growing |
 
