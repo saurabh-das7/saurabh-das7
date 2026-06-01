@@ -31,6 +31,7 @@ Documenting my AI learning journey — frameworks, tools, and projects built at 
 | [Google GenAI Leader](https://www.coursera.org/professional-certificates/generative-ai-for-leaders) | Google · Coursera | Professional Certificate | 🔄 In Progress |
 | [Exploring AI with Google AI Studio](https://www.coursera.org/learn/exploring-ai-with-google-ai-studio) | Google DeepMind · Coursera | Course · part of Gemini for Developers | 🔄 In Progress |
 | [Get Started with Generative AI Studio](https://www.coursera.org/projects/googlecloud-get-started-with-generative-ai-studio-2hgqt) | Google Cloud · Coursera | Guided Project | 🔄 In Progress |
+| [5-Day AI Agents: Intensive Vibe Coding Course](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview) | Google · Kaggle | Intensive · 5-day bootcamp with capstone | 🔄 In Progress |
 | [NotebookLM Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/notebooklm-essentials) | Great Learning | Course · Tool deep-dive | ✅ Done |
 
 *Learning by doing — everything above feeds directly into projects in this space.*
