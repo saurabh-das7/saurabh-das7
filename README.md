@@ -4,12 +4,14 @@ Sr. Technical Program Manager at Microsoft AI (Ads Marketplace).
 Building at the intersection of Ad Tech, Analytics, Measurement, and AI/ML products.
 
 ## What I work on
+
 - **LLM Products** — LLM-powered diagnostic tool for Microsoft Ads Marketplace; roadmap, evals, model-human parity
 - **Platform Trust & Integrity** — Fraud detection frameworks, consent signal monitoring, and privacy compliance platforms across 30+ markets
 - **Marketplace Health** — Anomaly detection, RCA programs, KPI monitoring across Ads platforms at scale
 - **Ad Format Launches** — End-to-end product launches across EMEA with cross-functional engineering, sales & policy teams
 
 ## This space
+
 Documenting my AI learning journey — frameworks, tools, and projects built at the intersection of product thinking and AI engineering. Everything here is built in public: problem-first, metric-driven, and PM-led.
 
 ## Building in Public
@@ -18,6 +20,7 @@ Documenting my AI learning journey — frameworks, tools, and projects built at 
 |---------|-----------|--------|
 | [llm-eval-toolkit](https://github.com/saurabh-das7/llm-eval-toolkit) | Streamlit app to evaluate LLM-generated search ad copy using a structured, intent-aware rubric | ✅ Live · [Try it](https://llm-eval-toolkit-uwvrvxbgvcgwmk9rpbpjun.streamlit.app/) |
 | [llm-issue-categorizer](https://github.com/saurabh-das7/llm-issue-categorizer) | LLM-powered tool to re-categorise vendor tickets and surface product improvement patterns | ✅ Live · [Try it](https://llm-issue-categorizer.streamlit.app) |
+| [net-worth-tracker](https://github.com/saurabh-das7/net-worth-tracker) | Privacy-first multi-asset net worth tracker — real XIRR and FIFO P&L across mutual funds, equities, crypto, and cash, with data stored only in your own Google Drive | 🔨 Building · [Try it](https://saurabh-das7.github.io/net-worth-tracker/) |
 | [pm-tpm-playbooks](https://github.com/saurabh-das7/pm-tpm-playbooks) | PM & TPM frameworks across API selection, LLM evaluation, prompt design, and product UX | 🌱 Growing |
 | [agent-skills](https://github.com/saurabh-das7/agent-skills) | Reusable AI skills for Claude and other agents — packaged as installable SKILL.md files | 🌱 Growing |
 
@@ -35,6 +38,7 @@ Documenting my AI learning journey — frameworks, tools, and projects built at 
 *Learning by doing — everything above feeds directly into projects in this space.*
 
 ## Background
+
 - 📍 Bengaluru, India
 - 🏢 Microsoft AI · Ads Marketplace (Sep 2021 - Present)
 - 🏢 Marico · Digital Transformation & Analytics | CEO Office (Jun 2017 - Aug 2021)
@@ -43,6 +47,7 @@ Documenting my AI learning journey — frameworks, tools, and projects built at 
 - 🔗 [LinkedIn](https://linkedin.com/in/saurabhdas7)
 
 ## Domain expertise
+
 `Ad Tech` `Measurement` `LLM Products` `Privacy-Aware Signals`
 `Signal Loss Mitigation` `A/B Experimentation` `Marketplace Optimisation`
 `Program Management` `0→1 Product Launches` `Trust & Safety` `Fraud & Abuse Detection`
